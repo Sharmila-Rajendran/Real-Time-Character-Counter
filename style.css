@@ -1,0 +1,38 @@
+.section{
+    margin:100px 300px;
+    width: 60%;
+}
+
+.container{
+    width: 50%;
+    padding: 50px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px grey;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-color: cadetblue;
+    color: white;
+    font-family: cursive;
+}
+
+.row{
+    padding: 15px;
+}
+
+#txt{
+    width: 60%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.col-12 h1{
+    text-align: center;
+}
+
+.col-12{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
